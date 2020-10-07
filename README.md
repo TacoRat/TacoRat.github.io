@@ -4,4 +4,4 @@
 
 
 
-#Credits to TLITC | Diab, stole most of his code :D
+#Credits to TLITC | Diab, stole a little bit of his code :D
